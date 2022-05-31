@@ -1,3 +1,3 @@
-# PuntoDeVenta
+# Punto de venta
 
 ## Proyecto universitario
